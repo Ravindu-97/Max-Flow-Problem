@@ -3,4 +3,6 @@ This is a demonstration of an algorithm to find the maximum flow possible from a
 
 Example input:
 
-![Imgur](https://imgur.com/kJZnTEE)
+![Alt text](/Example/ss1.JPG?raw=true "Optional Title")
+- - - -
+![Alt text](/Example/ss2.JPG?raw=true "Optional Title")
