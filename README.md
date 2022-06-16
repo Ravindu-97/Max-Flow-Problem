@@ -3,4 +3,4 @@ This is a demonstration of an algorithm to find the maximum flow possible from a
 
 Example input:
 
-![Alt text](https://imgur.com/kJZnTEE)
+![Imgur](https://imgur.com/kJZnTEE)
