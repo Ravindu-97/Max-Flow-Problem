@@ -4,5 +4,6 @@ This is a demonstration of an algorithm to find the maximum flow possible from a
 Example input:
 
 ![Alt text](/Example/ss1.JPG?raw=true "Optional Title")
-- - - -
+
+Example output:
 ![Alt text](/Example/ss2.JPG?raw=true "Optional Title")
